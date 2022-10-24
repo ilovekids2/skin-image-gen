@@ -21,4 +21,5 @@ need any help with this project add me on discord
 
 ## Credits                                                                                                                          
 image By [Fortnite Api](https://fortnite-api.com/)
+
 border image by [Eason](https://github.com/noteason)
