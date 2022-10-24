@@ -8,7 +8,7 @@ images in side display folder may change since i don't like the finished product
 
 
 ## ⚡ Language used
-this code t is fully coded with
+this code is fully coded with
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
    
